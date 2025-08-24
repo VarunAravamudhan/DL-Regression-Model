@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: S.YOGESH
+### Name: Varun A
 
-### Register Number: 212224230311
+### Register Number: 212224240178
 
 ```python
 import torch
@@ -123,6 +123,9 @@ y1 = x1 * w1 + b1
 print(f'Final Weight: {w1:.8f}, Final Bias: {b1:.8f}')
 print(f'X range: {x1.numpy()}')
 print(f'Predicted Y values: {y1.numpy()}')
+
+
+
 
 
 plt.scatter(X.numpy(), y.numpy(), label="Original Data")
