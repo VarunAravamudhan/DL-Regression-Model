@@ -151,6 +151,7 @@ print("Register No: 212224240178 ")
 print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 ```
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/f601fa65-88b5-4b81-a17e-c48f277eeb40" />
+
 ### OUTPUT
 Training Loss Vs Iteration Plot
 
